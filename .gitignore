@@ -1,0 +1,26 @@
+# Vercel
+.vercel
+.env*
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Editor / local tooling
+.vscode
+.idea
+
+# Reference material for the brief, not site assets
+Media/Demo Call Link.png
+Media/Discord Screenshot.png
+Media/Name Of Company.png
+Media/Osynth Instagram.png
+Media/Osynth Linkedin.png
+Media/Osynth Statistics.png
+Media/Waitlist Section after clicking button.png
+
+# Screen recordings are reference material, never site assets
+*.mov
+*.MOV
+*.webm
+*.mkv
